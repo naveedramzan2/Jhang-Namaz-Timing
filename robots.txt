@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://naveedramzan2.github.io/NamazTime2026/sitemap.xml
+Sitemap: https://naveedramzan2.github.io/Jhang-Namaz-Timing/sitemap.xml
